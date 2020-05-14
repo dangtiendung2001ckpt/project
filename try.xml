@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<shop_book>
+<sách>
+	<tên>cuộc sống mới2 </tên>
+	<số_trang>5000</số_trang>
+	<giá value="VNĐ">50000</giá>
+</sách>
+<sách>
+	<tên>cuộc sống cũ </tên>
+	<số_trang>5000</số_trang>
+	<giá value="VNĐ">50000</giá>
+</sách>
+<sách>
+	<tên>cuộc sống cũ </tên>
+	<số_trang>5000</số_trang>
+	<giá value="VNĐ">50000</giá>
+</sách>
+</shop_book>
+<!-- 
+	<sách>
+		<tên>cuộc sống cũ </tên>
+		<số_trang>5000</số_trang>
+		<giá value="VNĐ">50000</giá>
+	</sách>
+-->
